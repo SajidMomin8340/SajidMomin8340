@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SajidMomin8340
-- 👀 I’m interested in Java,python, android studio
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in SQL,python, Power BI
+- 🌱 I’m currently learning python and Sql 
+- 💞️ I’m looking to Work as a Data Analyst.
 - 📫 How to reach me sajidmomin8340@gmail.com
 
 <!---
